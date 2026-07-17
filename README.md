@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 <div align="center">
 
@@ -10,23 +10,23 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```
-💼 Full-stack web and app developer with a passion for building impactful projects
-🤖 ML enthusiast - built human activity recognition system
-☁️  Currently diving into DevOps practices and cloud architecture
-🚀 Deployed multiple real-world projects to production
-💡 Continuous learner and problem solver
+Full-stack web and app developer with a passion for building impactful projects
+ML enthusiast - built human activity recognition system
+Currently diving into DevOps practices and cloud architecture
+Deployed multiple real-world projects to production
+Continuous learner and problem solver
 ```
 
 ---
 
-## 🌐 Let's Connect & Collaborate!
+## Connect & Collaborate
 
 <div align="center">
 
-### 📱 Social Media & Professional Networks
+### Social Media & Professional Networks
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/Ahmed%20Raja)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/the_ahmed_raja)
@@ -35,20 +35,20 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:theahmedraja@gmail.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=2B90D9)](https://mastodon.social/@Ahmed%20Abbas)
 
-### 💬 Let's Talk About:
-- 💼 Full-stack development opportunities
-- 🤖 AI/ML projects and implementations
-- ☁️ Cloud architecture and DevOps solutions
-- 🌍 Collaboration on innovative products
-- 📚 Knowledge sharing and mentoring
+### Let's Talk About:
+- Full-stack development opportunities
+- AI/ML projects and implementations
+- Cloud architecture and DevOps solutions
+- Collaboration on innovative products
+- Knowledge sharing and mentoring
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### **Languages**
+### Languages
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,7 +62,7 @@
 
 </div>
 
-### **Frontend Development**
+### Frontend Development
 <div align="center">
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -72,7 +72,7 @@
 
 </div>
 
-### **Backend & Frameworks**
+### Backend & Frameworks
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -83,14 +83,14 @@
 
 </div>
 
-### **Mobile Development**
+### Mobile Development
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </div>
 
-### **Database & Storage**
+### Database & Storage
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -102,7 +102,7 @@
 
 </div>
 
-### **Machine Learning & Data Science**
+### Machine Learning & Data Science
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -115,7 +115,7 @@
 
 </div>
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -126,7 +126,7 @@
 
 </div>
 
-### **Tools & Version Control**
+### Tools & Version Control
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -136,7 +136,7 @@
 
 ---
 
-## 🏆 Key Expertise Areas
+## Key Expertise Areas
 
 <div align="center">
 
@@ -153,20 +153,20 @@
 
 ---
 
-## 🎓 Core Competencies
+## Core Competencies
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<h3>🌐 Web Development</h3>
+<h3>Web Development</h3>
 <p>Full-stack applications<br/>RESTful APIs, Real-time features<br/>Modern frameworks & scalability</p>
 </td>
 <td align="center" width="33%">
-<h3>📱 App Development</h3>
+<h3>App Development</h3>
 <p>Cross-platform mobile apps<br/>Flutter expertise<br/>User-centric design</p>
 </td>
 <td align="center" width="33%">
-<h3>🤖 AI & Machine Learning</h3>
+<h3>AI & Machine Learning</h3>
 <p>Deep Learning Models<br/>Human Activity Recognition<br/>Data Science & Analytics</p>
 </td>
 </tr>

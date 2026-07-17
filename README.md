@@ -326,7 +326,6 @@ I'm actively looking for:
 
 <div align="center">
 
-<h3>Made with ❤️ by <strong>Ahmed Abbas</strong></h3>
 
 *"The only way to do great work is to love what you do." — Steve Jobs*
 

@@ -50,6 +50,10 @@ Continuous learner and problem solver
 
 <div align="center">
 
+### Contribution Activity
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedAbbas&theme=github-dark&hide_border=true&area=true)](https://github.com/MuhammadAhmedAbbas)
+
 I'm actively building and deploying projects, constantly contributing to my repositories and staying engaged with the development community. My work spans across multiple technology domains.
 
 </div>
@@ -279,6 +283,14 @@ Exploring new frameworks and best practices
 ## Featured Work
 
 <div align="center">
+
+### Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&layout=compact&card_width=445)](https://github.com/MuhammadAhmedAbbas)
+
+### Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmedAbbas&theme=dark&hide_border=true)](https://github.com/MuhammadAhmedAbbas)
 
 Explore my repositories to see projects across:
 

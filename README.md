@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
 <div align="center">
 
@@ -41,6 +41,20 @@ Continuous learner and problem solver
 - Cloud architecture and DevOps solutions
 - Collaboration on innovative products
 - Knowledge sharing and mentoring
+
+</div>
+
+---
+
+## Activity & Contributions
+
+<div align="center">
+
+[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedAbbas&theme=github-dark&hide_border=true&area=true)](https://github.com/MuhammadAhmedAbbas)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAhmedAbbas&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFF&currStreakLabel=FFF&dates=FFF&sideNums=FFF&sideLabels=FFF&excludeDaysLabel=FFF)
 
 </div>
 
@@ -174,19 +188,19 @@ Continuous learner and problem solver
 
 ---
 
-## 🚀 Professional Highlights
+## Professional Highlights
 
-- 🎯 **Production-Ready Applications** - Multiple real-world projects deployed successfully
-- 🤖 **Advanced ML Implementations** - Human Activity Recognition using deep learning
-- 🏗️ **Full-Stack Architecture** - Complex systems spanning frontend, backend, databases
-- ☁️ **Cloud Infrastructure** - AWS & Azure deployments with scalable solutions
-- 🔧 **DevOps Expertise** - CI/CD pipelines, automation, and deployment strategies
-- 💪 **Diverse Tech Stack** - 10+ programming languages and advanced frameworks
-- 📦 **Scalable Solutions** - Building applications that handle real-world demands
+- Production-Ready Applications - Multiple real-world projects deployed successfully
+- Advanced ML Implementations - Human Activity Recognition using deep learning
+- Full-Stack Architecture - Complex systems spanning frontend, backend, databases
+- Cloud Infrastructure - AWS & Azure deployments with scalable solutions
+- DevOps Expertise - CI/CD pipelines, automation, and deployment strategies
+- Diverse Tech Stack - 10+ programming languages and advanced frameworks
+- Scalable Solutions - Building applications that handle real-world demands
 
 ---
 
-## 💼 Project Capabilities & Services
+## Project Capabilities & Services
 
 <div align="center">
 
@@ -202,105 +216,115 @@ I specialize in building:
 
 ---
 
-## 🎯 Looking For
+## Looking For
 
 <div align="center">
 
 | Category | Details |
 |----------|---------|
-| 🤝 **Collaboration** | Open to working on exciting projects and startups |
-| 💼 **Opportunities** | Full-time, Part-time, Freelance projects welcome |
-| 🌱 **Growth** | Continuous learning and skill development |
-| 🎓 **Mentoring** | Happy to guide and share knowledge |
-| 🚀 **Innovation** | Building products that make a real impact |
+| **Collaboration** | Open to working on exciting projects and startups |
+| **Opportunities** | Full-time, Part-time, Freelance projects welcome |
+| **Growth** | Continuous learning and skill development |
+| **Mentoring** | Happy to guide and share knowledge |
+| **Innovation** | Building products that make a real impact |
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Doing
+## What I'm Currently Doing
 
 ```
-🔄 Mastering DevOps & Cloud Architecture
-📚 Expanding ML/AI knowledge & deep learning
-🛠️  Building scalable, production-ready applications
-🌱 Creating impactful solutions with cutting-edge tech
-🔍 Exploring new frameworks and best practices
+Mastering DevOps & Cloud Architecture
+Expanding ML/AI knowledge & deep learning
+Building scalable, production-ready applications
+Creating impactful solutions with cutting-edge tech
+Exploring new frameworks and best practices
 ```
 
 ---
 
-## 🎨 My Development Philosophy
+## Development Philosophy
 
 <div align="center">
 
-> **"Write clean code today, thank yourself tomorrow"** 💭
+> "Write clean code today, thank yourself tomorrow"
 
-- 🏆 **Quality Over Quantity** - Writing maintainable, well-documented code
-- 🤝 **Collaborative Mindset** - Great communication and teamwork
-- 🎯 **Problem Solver** - Finding elegant solutions to complex problems
-- ⚡ **Performance Focused** - Optimizing for speed and efficiency
-- 📱 **User-Centric** - Building apps with great UX/UI
-- 🔒 **Security First** - Building secure and reliable systems
+- **Quality Over Quantity** - Writing maintainable, well-documented code
+- **Collaborative Mindset** - Great communication and teamwork
+- **Problem Solver** - Finding elegant solutions to complex problems
+- **Performance Focused** - Optimizing for speed and efficiency
+- **User-Centric** - Building apps with great UX/UI
+- **Security First** - Building secure and reliable systems
 
 </div>
 
 ---
 
-## 🎓 Interests & Passions
+## Interests & Passions
 
 <div align="center">
 
 | Interest | Description |
 |----------|-------------|
-| 🤖 **AI & ML** | Deep Learning, NLP, Computer Vision |
-| 🌐 **Web Tech** | Modern frameworks, JAMstack, serverless |
-| 📱 **Mobile** | Cross-platform development and UX |
-| ☁️ **Cloud** | AWS, Azure, containerization, microservices |
-| 📊 **Data** | Data science, analytics, visualization |
-| 🔐 **Security** | Secure coding, encryption, best practices |
+| **AI & ML** | Deep Learning, NLP, Computer Vision |
+| **Web Tech** | Modern frameworks, JAMstack, serverless |
+| **Mobile** | Cross-platform development and UX |
+| **Cloud** | AWS, Azure, containerization, microservices |
+| **Data** | Data science, analytics, visualization |
+| **Security** | Secure coding, encryption, best practices |
 
 </div>
 
 ---
 
-## 📈 Quick Stats
+## Performance Metrics
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&layout=compact)](https://github.com/MuhammadAhmedAbbas)
+
+</div>
+
+---
+
+## Quick Stats
 
 <div align="center">
 
 ```
-🎯 Projects Deployed: Multiple Real-World Solutions
-💻 Languages Mastered: 10+ Programming Languages
-🏢 Experience: Web, Mobile, ML, DevOps
-📦 Frameworks: 15+ Production-Ready Frameworks
-⭐ Focus Areas: Full-Stack • AI/ML • Cloud Architecture
+Projects Deployed: Multiple Real-World Solutions
+Languages Mastered: 10+ Programming Languages
+Experience: Web, Mobile, ML, DevOps
+Frameworks: 15+ Production-Ready Frameworks
+Focus Areas: Full-Stack • AI/ML • Cloud Architecture
 ```
 
 </div>
 
 ---
 
-## 🚀 Let's Build Something Amazing Together!
+## Let's Build Something Amazing Together
 
 <div align="center">
 
-### ⚡ Quick Links
+### Quick Links
 
-- 📧 **Email Me**: [theahmedraja@gmail.com](mailto:theahmedraja@gmail.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/Ahmed%20Abbas)
-- 📱 **Instagram**: [@the_ahmed_raja](https://instagram.com/the_ahmed_raja)
-- 💬 **Let's Discuss**: Any projects, ideas, or collaborations!
+- Email: [theahmedraja@gmail.com](mailto:theahmedraja@gmail.com)
+- LinkedIn: [Connect with me](https://linkedin.com/in/Ahmed%20Abbas)
+- Instagram: [@the_ahmed_raja](https://instagram.com/the_ahmed_raja)
+- Let's Discuss: Any projects, ideas, or collaborations!
 
 ---
 
-### 🎁 What You'll Get Working With Me:
+### What You'll Get Working With Me:
 
-✅ Clean, maintainable, production-ready code  
-✅ Full ownership and attention to detail  
-✅ Timely communication and updates  
-✅ Scalable solutions that grow with your needs  
-✅ Continuous support and optimization  
-✅ Modern best practices and technologies  
+✓ Clean, maintainable, production-ready code  
+✓ Full ownership and attention to detail  
+✓ Timely communication and updates  
+✓ Scalable solutions that grow with your needs  
+✓ Continuous support and optimization  
+✓ Modern best practices and technologies  
 
 ---
 
@@ -308,15 +332,15 @@ I specialize in building:
 
 <div align="center">
 
-### 🤝 Open to Opportunities
+### Open to Opportunities
 
 I'm actively looking for:
-- **Full-time/Part-time Roles** in Web, Mobile, or ML
-- **Freelance Projects** with interesting challenges
-- **Startup Collaborations** to build the next big thing
-- **Mentoring Opportunities** to share my knowledge
+- Full-time/Part-time Roles in Web, Mobile, or ML
+- Freelance Projects with interesting challenges
+- Startup Collaborations to build the next big thing
+- Mentoring Opportunities to share my knowledge
 
-**Don't hesitate to reach out!** ☝️
+**Don't hesitate to reach out!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAhmedAbbas&color=00D9FF&style=for-the-badge)
 
@@ -326,7 +350,8 @@ I'm actively looking for:
 
 <div align="center">
 
+Made with dedication by **Ahmed Abbas**
 
-*"The only way to do great work is to love what you do." — Steve Jobs*
+"The only way to do great work is to love what you do." — Steve Jobs
 
 </div>

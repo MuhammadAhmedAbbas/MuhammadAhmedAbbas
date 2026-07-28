@@ -50,11 +50,13 @@ Continuous learner and problem solver
 
 <div align="center">
 
-[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedAbbas&theme=github-dark&hide_border=true&area=true)](https://github.com/MuhammadAhmedAbbas)
+### GitHub Contribution Graph
 
-### Contribution Streak
+[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAhmedAbbas&theme=github-dark&hide_border=true&area=true&curve=true)](https://github.com/MuhammadAhmedAbbas)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadAhmedAbbas&theme=dark&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFF&currStreakLabel=FFF&dates=FFF&sideNums=FFF&sideLabels=FFF&excludeDaysLabel=FFF)
+### GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&show_icons=true&count_private=true)](https://github.com/MuhammadAhmedAbbas)
 
 </div>
 
@@ -282,7 +284,7 @@ Exploring new frameworks and best practices
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&layout=compact)](https://github.com/MuhammadAhmedAbbas)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/MuhammadAhmedAbbas)
 
 </div>
 

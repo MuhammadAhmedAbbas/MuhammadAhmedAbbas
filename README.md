@@ -325,7 +325,7 @@ Focus Areas: Full-Stack • AI/ML • Cloud Architecture
 ### Quick Links
 
 - Email: [theahmedraja@gmail.com](mailto:theahmedraja@gmail.com)
-- LinkedIn: [Connect with me](https://linkedin.com/in/Ahmed%20Abbas)
+- LinkedIn: [Connect with me](www.linkedin.com/in/ahmed-abbas-a4092a384)
 - Instagram: [@the_ahmed_raja](https://instagram.com/the_ahmed_raja)
 - Let's Discuss: Any projects, ideas, or collaborations!
 

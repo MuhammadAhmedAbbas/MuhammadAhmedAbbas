@@ -284,10 +284,6 @@ Exploring new frameworks and best practices
 
 <div align="center">
 
-### Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAhmedAbbas&theme=github_dark&hide_border=true&layout=compact&card_width=445)](https://github.com/MuhammadAhmedAbbas)
-
 ### Contribution Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadAhmedAbbas&theme=dark&hide_border=true)](https://github.com/MuhammadAhmedAbbas)
@@ -368,7 +364,6 @@ I'm actively looking for:
 
 <div align="center">
 
-Made with dedication by **Ahmed Abbas**
 
 "The only way to do great work is to love what you do." — Steve Jobs
 
